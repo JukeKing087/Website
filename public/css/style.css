@@ -1,0 +1,16 @@
+body, html {
+    background-color: gray;
+    height: 100%;
+    margin: 0;
+}
+
+.TopMenu {
+    background-color: rgb(201, 201, 201);
+    color: whitesmoke;
+    width: 25%;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+}
